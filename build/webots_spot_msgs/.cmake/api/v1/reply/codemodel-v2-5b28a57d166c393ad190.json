@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-62ff911217a043018fc2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						18
+					]
+				},
+				{
+					"build" : "webots_spot_msgs__py",
+					"jsonFile" : "directory-webots_spot_msgs__py-7803f954205c5c29c606.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mannm/ros2_ws/build/webots_spot_msgs/webots_spot_msgs__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "webots_spot_msgs__rs",
+					"jsonFile" : "directory-webots_spot_msgs__rs-3a63c9a35fe731968cec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mannm/ros2_ws/build/webots_spot_msgs/webots_spot_msgs__rs",
+					"targetIndexes" : 
+					[
+						17
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "webots_spot_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_webots_spot_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_webots_spot_msgs_egg-99c28ad9ed7c30b9a42b.json",
+					"name" : "ament_cmake_python_build_webots_spot_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_webots_spot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_webots_spot_msgs-9c6a746c35826cc1ddf6.json",
+					"name" : "ament_cmake_python_symlink_webots_spot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-16c5f080d9e028296b06.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs-bf2e0d32095ae3ac7caa.json",
+					"name" : "webots_spot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__cpp-7583318b839596a3078c.json",
+					"name" : "webots_spot_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "webots_spot_msgs__py::@dc3e84646f7178a61104",
+					"jsonFile" : "target-webots_spot_msgs__py-14e71305782e75b29a7a.json",
+					"name" : "webots_spot_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_generator_c-ed6645deb534887f35bc.json",
+					"name" : "webots_spot_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_generator_py-c5f16a655be413e24ddc.json",
+					"name" : "webots_spot_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_c-70efd1ea7f57fedc1040.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_c__pyext-d25597f05157fe44b64c.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_cpp-269532c528aaa11ef79f.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_fastrtps_c-2de9633b0941cb83a472.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_fastrtps_c__pyext-88b0783b8f4dfbf033d9.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_fastrtps_cpp-7dade82ed57e07cedd5d.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_introspection_c-e6ed8b954bd76ce669f5.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_introspection_c__pyext-07fecef80a98d2569892.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs__rosidl_typesupport_introspection_cpp-2d8be5667c6658e7f9bd.json",
+					"name" : "webots_spot_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "webots_spot_msgs__rs::@81ba05c82936ad643513",
+					"jsonFile" : "target-webots_spot_msgs__rs-d35fb8149078f3ab3a43.json",
+					"name" : "webots_spot_msgs__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "webots_spot_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-webots_spot_msgs_uninstall-dcd231fcff83586e8131.json",
+					"name" : "webots_spot_msgs_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mannm/ros2_ws/build/webots_spot_msgs",
+		"source" : "/home/mannm/ros2_ws/src/webots_spot_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

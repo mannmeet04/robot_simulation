@@ -1,0 +1,4 @@
+[console_scripts]
+aruco_detector = spot_vision.aruco_detector:main
+line_follower = spot_vision.line_follower:main
+yolo_detector = spot_vision.yolo_detector:main

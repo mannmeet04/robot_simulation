@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating spot_vision.egg-info
+writing spot_vision.egg-info/PKG-INFO
+writing dependency_links to spot_vision.egg-info/dependency_links.txt
+writing entry points to spot_vision.egg-info/entry_points.txt
+writing requirements to spot_vision.egg-info/requires.txt
+writing top-level names to spot_vision.egg-info/top_level.txt
+writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+reading manifest file 'spot_vision.egg-info/SOURCES.txt'
+writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages/spot-vision.egg-link (link to .)
+Installing line_follower script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+
+Installed /home/mannm/ros2_ws/build/spot_vision
+running symlink_data
+creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index
+creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index
+creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index/packages
+symbolically linking /home/mannm/ros2_ws/build/spot_vision/resource/spot_vision -> /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index/packages
+symbolically linking /home/mannm/ros2_ws/build/spot_vision/package.xml -> /home/mannm/ros2_ws/install/spot_vision/share/spot_vision

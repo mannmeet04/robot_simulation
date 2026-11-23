@@ -1,0 +1,19 @@
+[14.628s] Invoking command in '/home/mannm/ros2_ws/build/spot_vision': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data
+[18.477s] running develop
+[21.235s] running egg_info
+[21.473s] writing spot_vision.egg-info/PKG-INFO
+[21.479s] writing dependency_links to spot_vision.egg-info/dependency_links.txt
+[21.481s] writing entry points to spot_vision.egg-info/entry_points.txt
+[21.485s] writing requirements to spot_vision.egg-info/requires.txt
+[21.486s] writing top-level names to spot_vision.egg-info/top_level.txt
+[21.869s] reading manifest file 'spot_vision.egg-info/SOURCES.txt'
+[21.877s] writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+[22.070s] running build_ext
+[22.075s] Creating /home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages/spot-vision.egg-link (link to .)
+[22.084s] Installing aruco_detector script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[22.088s] Installing line_follower script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[22.090s] Installing yolo_detector script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[22.095s] 
+[22.097s] Installed /home/mannm/ros2_ws/build/spot_vision
+[22.098s] running symlink_data
+[22.388s] Invoked command in '/home/mannm/ros2_ws/build/spot_vision' returned '0': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data

@@ -1,0 +1,8 @@
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:msg/Int32.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:msg/Legs.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:msg/GaitInput.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:srv/SpotMotion.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:srv/SpotHeight.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:srv/BlockPose.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:action/Stack.idl
+/home/mannm/ros2_ws/build/webots_spot_msgs/rosidl_adapter/webots_spot_msgs:action/PeakAndDetectObject.idl

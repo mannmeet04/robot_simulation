@@ -1,0 +1,271 @@
+[0.504s] Invoking command in '/home/mannm/ros2_ws/build/webots_spot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mannm/ros2_ws/build/webots_spot_msgs -- -j16 -l16
+[0.599s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_generator_c[0m
+[0.616s] [  1%] Built target webots_spot_msgs__rs
+[0.616s] [  2%] Built target webots_spot_msgs__cpp
+[0.634s] [ 13%] Built target webots_spot_msgs__rosidl_generator_c
+[0.637s] [ 13%] Built target ament_cmake_python_symlink_webots_spot_msgs
+[0.648s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_cpp[0m
+[0.648s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.648s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.665s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_c[0m
+[0.666s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_introspection_c[0m
+[0.666s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.701s] [ 32%] Built target webots_spot_msgs__rosidl_typesupport_introspection_cpp
+[0.701s] [ 36%] Built target webots_spot_msgs__rosidl_typesupport_cpp
+[0.707s] [ 47%] Built target webots_spot_msgs__rosidl_typesupport_c
+[0.708s] [ 59%] Built target webots_spot_msgs__rosidl_typesupport_introspection_c
+[0.710s] [ 70%] Built target webots_spot_msgs__rosidl_typesupport_fastrtps_cpp
+[0.723s] [ 81%] Built target webots_spot_msgs__rosidl_typesupport_fastrtps_c
+[0.761s] [ 81%] Built target webots_spot_msgs
+[0.806s] [ 82%] Built target webots_spot_msgs__py
+[0.830s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_generator_py[0m
+[0.863s] [ 93%] Built target webots_spot_msgs__rosidl_generator_py
+[0.884s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.884s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.887s] [35m[1mConsolidate compiler generated dependencies of target webots_spot_msgs__rosidl_typesupport_c__pyext[0m
+[0.910s] [ 95%] Built target webots_spot_msgs__rosidl_typesupport_introspection_c__pyext
+[0.911s] [ 97%] Built target webots_spot_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.912s] [100%] Built target webots_spot_msgs__rosidl_typesupport_c__pyext
+[1.079s] running egg_info
+[1.080s] writing webots_spot_msgs.egg-info/PKG-INFO
+[1.081s] writing dependency_links to webots_spot_msgs.egg-info/dependency_links.txt
+[1.081s] writing top-level names to webots_spot_msgs.egg-info/top_level.txt
+[1.085s] reading manifest file 'webots_spot_msgs.egg-info/SOURCES.txt'
+[1.086s] writing manifest file 'webots_spot_msgs.egg-info/SOURCES.txt'
+[1.137s] [100%] Built target ament_cmake_python_build_webots_spot_msgs_egg
+[1.164s] Invoked command in '/home/mannm/ros2_ws/build/webots_spot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mannm/ros2_ws/build/webots_spot_msgs -- -j16 -l16
+[1.186s] Invoking command in '/home/mannm/ros2_ws/build/webots_spot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble /usr/bin/cmake --install /home/mannm/ros2_ws/build/webots_spot_msgs
+[1.201s] -- Install configuration: ""
+[1.202s] -- Execute custom install script
+[1.202s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/ament_index/resource_index/rosidl_interfaces/webots_spot_msgs
+[1.204s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__functions.h
+[1.204s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__struct.h
+[1.204s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__type_support.h
+[1.205s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__functions.h
+[1.205s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__struct.h
+[1.206s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__type_support.h
+[1.206s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/peak_and_detect_object.h
+[1.207s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/stack.h
+[1.207s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__functions.h
+[1.208s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__struct.h
+[1.208s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__type_support.h
+[1.208s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__functions.h
+[1.209s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__struct.h
+[1.210s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__type_support.h
+[1.210s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__functions.h
+[1.210s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__struct.h
+[1.212s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__type_support.h
+[1.214s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/gait_input.h
+[1.217s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/int32.h
+[1.218s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/legs.h
+[1.218s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.218s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/block_pose.h
+[1.219s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__functions.h
+[1.220s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__struct.h
+[1.220s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__type_support.h
+[1.220s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__functions.h
+[1.222s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__struct.h
+[1.222s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__type_support.h
+[1.222s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__functions.h
+[1.223s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__struct.h
+[1.223s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__type_support.h
+[1.223s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/spot_height.h
+[1.223s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/spot_motion.h
+[1.224s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/library_path.sh
+[1.230s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/library_path.dsv
+[1.231s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__rosidl_typesupport_fastrtps_c.h
+[1.231s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__rosidl_typesupport_fastrtps_c.h
+[1.231s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__rosidl_typesupport_fastrtps_c.h
+[1.232s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__rosidl_typesupport_fastrtps_c.h
+[1.232s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__rosidl_typesupport_fastrtps_c.h
+[1.233s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.233s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__rosidl_typesupport_fastrtps_c.h
+[1.234s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__rosidl_typesupport_fastrtps_c.h
+[1.235s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__rosidl_typesupport_fastrtps_c.h
+[1.238s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__rosidl_typesupport_introspection_c.h
+[1.238s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__rosidl_typesupport_introspection_c.h
+[1.239s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__rosidl_typesupport_introspection_c.h
+[1.239s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__rosidl_typesupport_introspection_c.h
+[1.239s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__rosidl_typesupport_introspection_c.h
+[1.239s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.240s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__rosidl_typesupport_introspection_c.h
+[1.240s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__rosidl_typesupport_introspection_c.h
+[1.240s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__rosidl_typesupport_introspection_c.h
+[1.241s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__builder.hpp
+[1.242s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__struct.hpp
+[1.243s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__traits.hpp
+[1.243s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__type_support.hpp
+[1.243s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__builder.hpp
+[1.243s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__struct.hpp
+[1.244s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__traits.hpp
+[1.247s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__type_support.hpp
+[1.248s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/peak_and_detect_object.hpp
+[1.248s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/stack.hpp
+[1.248s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__builder.hpp
+[1.250s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__struct.hpp
+[1.250s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__traits.hpp
+[1.251s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__type_support.hpp
+[1.251s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__builder.hpp
+[1.251s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__struct.hpp
+[1.252s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__traits.hpp
+[1.255s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__type_support.hpp
+[1.255s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__builder.hpp
+[1.256s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__struct.hpp
+[1.256s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__traits.hpp
+[1.256s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__type_support.hpp
+[1.257s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/gait_input.hpp
+[1.257s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/int32.hpp
+[1.258s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/legs.hpp
+[1.259s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.259s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/block_pose.hpp
+[1.260s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__builder.hpp
+[1.260s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__struct.hpp
+[1.260s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__traits.hpp
+[1.261s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__type_support.hpp
+[1.263s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__builder.hpp
+[1.263s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__struct.hpp
+[1.263s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__traits.hpp
+[1.264s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__type_support.hpp
+[1.264s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__builder.hpp
+[1.264s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__struct.hpp
+[1.264s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__traits.hpp
+[1.265s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__type_support.hpp
+[1.265s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/spot_height.hpp
+[1.266s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/spot_motion.hpp
+[1.272s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__rosidl_typesupport_fastrtps_cpp.hpp
+[1.276s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__rosidl_typesupport_fastrtps_cpp.hpp
+[1.277s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__rosidl_typesupport_fastrtps_cpp.hpp
+[1.278s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__rosidl_typesupport_fastrtps_cpp.hpp
+[1.278s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__rosidl_typesupport_fastrtps_cpp.hpp
+[1.278s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.279s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[1.279s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__rosidl_typesupport_fastrtps_cpp.hpp
+[1.279s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__rosidl_typesupport_fastrtps_cpp.hpp
+[1.280s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/peak_and_detect_object__rosidl_typesupport_introspection_cpp.hpp
+[1.280s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/action/detail/stack__rosidl_typesupport_introspection_cpp.hpp
+[1.281s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/gait_input__rosidl_typesupport_introspection_cpp.hpp
+[1.282s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/int32__rosidl_typesupport_introspection_cpp.hpp
+[1.282s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/msg/detail/legs__rosidl_typesupport_introspection_cpp.hpp
+[1.282s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/block_pose__rosidl_typesupport_introspection_cpp.hpp
+[1.282s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_height__rosidl_typesupport_introspection_cpp.hpp
+[1.283s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/include/webots_spot_msgs/webots_spot_msgs/srv/detail/spot_motion__rosidl_typesupport_introspection_cpp.hpp
+[1.283s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/pythonpath.sh
+[1.283s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/pythonpath.dsv
+[1.283s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[1.284s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.284s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.286s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[1.288s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/__init__.py
+[1.288s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/_webots_spot_msgs_s.ep.rosidl_typesupport_c.c
+[1.289s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/_webots_spot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.289s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/_webots_spot_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.290s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action/__init__.py
+[1.291s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action/_peak_and_detect_object.py
+[1.291s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action/_peak_and_detect_object_s.c
+[1.292s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action/_stack.py
+[1.292s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action/_stack_s.c
+[1.292s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/libwebots_spot_msgs__rosidl_generator_py.so
+[1.293s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/__init__.py
+[1.293s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_gait_input.py
+[1.293s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_gait_input_s.c
+[1.294s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_int32.py
+[1.294s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_int32_s.c
+[1.294s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_legs.py
+[1.294s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg/_legs_s.c
+[1.295s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/__init__.py
+[1.296s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_block_pose.py
+[1.296s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_block_pose_s.c
+[1.298s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_spot_height.py
+[1.299s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_spot_height_s.c
+[1.299s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_spot_motion.py
+[1.300s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv/_spot_motion_s.c
+[1.300s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.302s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/webots_spot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.303s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/Cargo.toml
+[1.304s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/build.rs
+[1.305s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/action.rs
+[1.305s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/action/rmw.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/lib.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/msg.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/msg/rmw.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/srv.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/rust/src/srv/rmw.rs
+[1.306s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/Int32.idl
+[1.307s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/Legs.idl
+[1.312s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/GaitInput.idl
+[1.312s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotMotion.idl
+[1.313s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotHeight.idl
+[1.313s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/BlockPose.idl
+[1.313s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/action/Stack.idl
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/action/PeakAndDetectObject.idl
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/Int32.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/Legs.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/msg/GaitInput.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotMotion.srv
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotMotion_Request.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotMotion_Response.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotHeight.srv
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotHeight_Request.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/SpotHeight_Response.msg
+[1.314s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/BlockPose.srv
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/BlockPose_Request.msg
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/srv/BlockPose_Response.msg
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/action/Stack.action
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/action/PeakAndDetectObject.action
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/ament_index/resource_index/package_run_dependencies/webots_spot_msgs
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/ament_index/resource_index/parent_prefix_path/webots_spot_msgs
+[1.315s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/ament_prefix_path.sh
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/ament_prefix_path.dsv
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/path.sh
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/environment/path.dsv
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/local_setup.bash
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/local_setup.sh
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/local_setup.zsh
+[1.316s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/local_setup.dsv
+[1.316s] -- Symlinking: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/package.dsv
+[1.321s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/ament_index/resource_index/packages/webots_spot_msgs
+[1.321s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/rosidl_cmake-extras.cmake
+[1.321s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.321s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.321s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgsConfig.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgsConfig-version.cmake
+[1.322s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/package.xml
+[1.322s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_generator_c.so
+[1.322s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_fastrtps_c.so
+[1.322s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_introspection_c.so
+[1.322s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_c.so
+[1.323s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.323s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_introspection_cpp.so
+[1.323s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_typesupport_cpp.so
+[1.397s] Listing '/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs'...
+[1.397s] Listing '/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/action'...
+[1.397s] Listing '/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/msg'...
+[1.397s] Listing '/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages/webots_spot_msgs/srv'...
+[1.405s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/lib/libwebots_spot_msgs__rosidl_generator_py.so
+[1.406s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_generator_cExport.cmake
+[1.406s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.406s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.406s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.406s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.407s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.407s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_cExport.cmake
+[1.407s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.408s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_generator_cppExport.cmake
+[1.408s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.408s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_cppExport.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/webots_spot_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_generator_pyExport.cmake
+[1.409s] -- Up-to-date: /home/mannm/ros2_ws/install/webots_spot_msgs/share/webots_spot_msgs/cmake/export_webots_spot_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.414s] Invoked command in '/home/mannm/ros2_ws/build/webots_spot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble /usr/bin/cmake --install /home/mannm/ros2_ws/build/webots_spot_msgs

@@ -1,0 +1,17 @@
+[3.043s] Invoking command in '/home/mannm/ros2_ws/build/turtle_circle_pkg': PYTHONPATH=/home/mannm/ros2_ws/build/turtle_circle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/turtle_circle_pkg/build --no-deps symlink_data
+[3.543s] running develop
+[3.820s] running egg_info
+[3.821s] writing turtle_circle_pkg.egg-info/PKG-INFO
+[3.821s] writing dependency_links to turtle_circle_pkg.egg-info/dependency_links.txt
+[3.821s] writing entry points to turtle_circle_pkg.egg-info/entry_points.txt
+[3.822s] writing requirements to turtle_circle_pkg.egg-info/requires.txt
+[3.822s] writing top-level names to turtle_circle_pkg.egg-info/top_level.txt
+[3.825s] reading manifest file 'turtle_circle_pkg.egg-info/SOURCES.txt'
+[3.827s] writing manifest file 'turtle_circle_pkg.egg-info/SOURCES.txt'
+[3.829s] running build_ext
+[3.830s] Creating /home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages/turtle-circle-pkg.egg-link (link to .)
+[3.831s] Installing turtle_circle script to /home/mannm/ros2_ws/install/turtle_circle_pkg/lib/turtle_circle_pkg
+[3.832s] 
+[3.832s] Installed /home/mannm/ros2_ws/build/turtle_circle_pkg
+[3.832s] running symlink_data
+[3.878s] Invoked command in '/home/mannm/ros2_ws/build/turtle_circle_pkg' returned '0': PYTHONPATH=/home/mannm/ros2_ws/build/turtle_circle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/turtle_circle_pkg/build --no-deps symlink_data

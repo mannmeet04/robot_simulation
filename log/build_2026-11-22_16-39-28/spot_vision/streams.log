@@ -1,0 +1,18 @@
+[1.791s] Invoking command in '/home/mannm/ros2_ws/build/spot_vision': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data
+[2.232s] running develop
+[2.505s] running egg_info
+[2.505s] writing spot_vision.egg-info/PKG-INFO
+[2.506s] writing dependency_links to spot_vision.egg-info/dependency_links.txt
+[2.506s] writing entry points to spot_vision.egg-info/entry_points.txt
+[2.506s] writing requirements to spot_vision.egg-info/requires.txt
+[2.507s] writing top-level names to spot_vision.egg-info/top_level.txt
+[2.510s] reading manifest file 'spot_vision.egg-info/SOURCES.txt'
+[2.512s] writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+[2.514s] running build_ext
+[2.515s] Creating /home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages/spot-vision.egg-link (link to .)
+[2.517s] Installing aruco_detector script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[2.518s] Installing line_follower script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[2.518s] 
+[2.519s] Installed /home/mannm/ros2_ws/build/spot_vision
+[2.519s] running symlink_data
+[2.568s] Invoked command in '/home/mannm/ros2_ws/build/spot_vision' returned '0': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data

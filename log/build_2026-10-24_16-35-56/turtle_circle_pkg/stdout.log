@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing turtle_circle_pkg.egg-info/PKG-INFO
+writing dependency_links to turtle_circle_pkg.egg-info/dependency_links.txt
+writing entry points to turtle_circle_pkg.egg-info/entry_points.txt
+writing requirements to turtle_circle_pkg.egg-info/requires.txt
+writing top-level names to turtle_circle_pkg.egg-info/top_level.txt
+reading manifest file 'turtle_circle_pkg.egg-info/SOURCES.txt'
+writing manifest file 'turtle_circle_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages/turtle-circle-pkg.egg-link (link to .)
+Installing turtle_circle script to /home/mannm/ros2_ws/install/turtle_circle_pkg/lib/turtle_circle_pkg
+
+Installed /home/mannm/ros2_ws/build/turtle_circle_pkg
+running symlink_data

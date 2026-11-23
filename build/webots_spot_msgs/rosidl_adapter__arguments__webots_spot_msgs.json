@@ -1,0 +1,13 @@
+{
+  "package_name": "webots_spot_msgs",
+  "non_idl_tuples": [
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:msg/Int32.msg",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:msg/Legs.msg",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:msg/GaitInput.msg",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:srv/SpotMotion.srv",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:srv/SpotHeight.srv",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:srv/BlockPose.srv",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:action/Stack.action",
+    "/home/mannm/ros2_ws/src/webots_spot_msgs:action/PeakAndDetectObject.action"
+  ]
+}

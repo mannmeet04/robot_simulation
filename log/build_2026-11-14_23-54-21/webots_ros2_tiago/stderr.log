@@ -1,0 +1,2 @@
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:355: UserWarning: Unbuilt egg for webots-ros2-husarion [unknown version] (/home/mannm/ros2_ws/build/webots_ros2_husarion)
+  self.local_index = Environment(self.shadow_path + sys.path)

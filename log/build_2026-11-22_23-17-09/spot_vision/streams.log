@@ -1,0 +1,29 @@
+[6.853s] Invoking command in '/home/mannm/ros2_ws/build/spot_vision': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data
+[8.945s] running develop
+[9.106s] Traceback (most recent call last):
+[9.107s]   File "/home/mannm/ros2_ws/build/spot_vision/setup.py", line 5, in <module>
+[9.108s]     setup(
+[9.108s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[9.108s]     return distutils.core.setup(**attrs)
+[9.109s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 186, in setup
+[9.110s]     return run_commands(dist)
+[9.111s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 202, in run_commands
+[9.111s]     dist.run_commands()
+[9.112s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1002, in run_commands
+[9.112s]     self.run_command(cmd)
+[9.112s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/dist.py", line 1104, in run_command
+[9.114s]     super().run_command(command)
+[9.114s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1020, in run_command
+[9.114s]     cmd_obj.ensure_finalized()
+[9.115s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 135, in ensure_finalized
+[9.115s]     self.finalize_options()
+[9.116s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options
+[9.116s]     easy_install.finalize_options(self)
+[9.118s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 251, in finalize_options
+[9.119s]     'dist_fullname': self.distribution.get_fullname(),
+[9.121s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 275, in get_fullname
+[9.124s]     return _distribution_fullname(self.get_name(), self.get_version())
+[9.126s]   File "/home/mannm/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 293, in _distribution_fullname
+[9.126s]     canonicalize_version(version, strip_trailing_zero=False),
+[9.127s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[9.354s] Invoked command in '/home/mannm/ros2_ws/build/spot_vision' returned '1': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data

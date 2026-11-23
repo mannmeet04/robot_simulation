@@ -1,0 +1,24 @@
+[3.220s] Invoking command in '/home/mannm/ros2_ws/build/spot_vision': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data
+[3.666s] running develop
+[3.944s] running egg_info
+[3.945s] creating spot_vision.egg-info
+[3.947s] writing spot_vision.egg-info/PKG-INFO
+[3.948s] writing dependency_links to spot_vision.egg-info/dependency_links.txt
+[3.948s] writing entry points to spot_vision.egg-info/entry_points.txt
+[3.948s] writing requirements to spot_vision.egg-info/requires.txt
+[3.948s] writing top-level names to spot_vision.egg-info/top_level.txt
+[3.948s] writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+[3.951s] reading manifest file 'spot_vision.egg-info/SOURCES.txt'
+[3.952s] writing manifest file 'spot_vision.egg-info/SOURCES.txt'
+[3.957s] running build_ext
+[3.957s] Creating /home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages/spot-vision.egg-link (link to .)
+[3.959s] Installing line_follower script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision
+[3.960s] 
+[3.960s] Installed /home/mannm/ros2_ws/build/spot_vision
+[3.961s] running symlink_data
+[3.961s] creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index
+[3.961s] creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index
+[3.962s] creating /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index/packages
+[3.963s] symbolically linking /home/mannm/ros2_ws/build/spot_vision/resource/spot_vision -> /home/mannm/ros2_ws/install/spot_vision/share/ament_index/resource_index/packages
+[3.963s] symbolically linking /home/mannm/ros2_ws/build/spot_vision/package.xml -> /home/mannm/ros2_ws/install/spot_vision/share/spot_vision
+[4.072s] Invoked command in '/home/mannm/ros2_ws/build/spot_vision' returned '0': PYTHONPATH=/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/spot_vision/build --no-deps symlink_data

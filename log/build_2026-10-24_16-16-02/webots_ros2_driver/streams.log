@@ -1,0 +1,387 @@
+[0.353s] Invoking command in '/home/mannm/ros2_ws/build/webots_ros2_driver': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake /home/mannm/ros2_ws/src/webots_ros2/webots_ros2_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mannm/ros2_ws/install/webots_ros2_driver
+[0.602s] -- The C compiler identification is GNU 11.4.0
+[1.402s] -- The CXX compiler identification is GNU 11.4.0
+[1.960s] -- Detecting C compiler ABI info
+[2.232s] -- Detecting C compiler ABI info - done
+[2.241s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.241s] -- Detecting C compile features
+[2.242s] -- Detecting C compile features - done
+[2.248s] -- Detecting CXX compiler ABI info
+[2.566s] -- Detecting CXX compiler ABI info - done
+[2.575s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.576s] -- Detecting CXX compile features
+[2.577s] -- Detecting CXX compile features - done
+[2.582s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.864s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.973s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.057s] -- Found rosgraph_msgs: 1.2.3 (/opt/ros/humble/share/rosgraph_msgs/cmake)
+[3.339s] -- Found rosidl_generator_c: 3.1.9 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.349s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.365s] -- Found rosidl_generator_cpp: 3.1.9 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.386s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.417s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.518s] -- Found rclcpp: 16.0.21 (/opt/ros/humble/share/rclcpp/cmake)
+[3.608s] -- Found rmw_implementation_cmake: 6.1.4 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.618s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.974s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.598s] -- Found FastRTPS: /opt/ros/humble/include  
+[12.571s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.606s] -- Looking for pthread.h
+[12.876s] -- Looking for pthread.h - found
+[12.876s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.132s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[13.133s] -- Found Threads: TRUE  
+[13.224s] -- Found pluginlib: 5.1.5 (/opt/ros/humble/share/pluginlib/cmake)
+[15.233s] -- Found sensor_msgs: 4.9.2 (/opt/ros/humble/share/sensor_msgs/cmake)
+[15.299s] -- Found tf2_geometry_msgs: 0.25.24 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[15.418s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[15.421s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[15.421s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[15.646s] -- Found vision_msgs: 4.1.1 (/opt/ros/humble/share/vision_msgs/cmake)
+[15.670s] -- Found webots_ros2_msgs: 2025.0.1 (/home/mannm/ros2_ws/install/webots_ros2_msgs/share/webots_ros2_msgs/cmake)
+[15.700s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[16.067s] -- Found Python: /usr/include/python3.10 (found suitable exact version "3.10.12") found components: Development Development.Module Development.Embed 
+[16.575s] -- Configuring done
+[16.662s] -- Generating done
+[16.680s] -- Build files have been written to: /home/mannm/ros2_ws/build/webots_ros2_driver
+[16.703s] Invoked command in '/home/mannm/ros2_ws/build/webots_ros2_driver' returned '0': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake /home/mannm/ros2_ws/src/webots_ros2/webots_ros2_driver -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mannm/ros2_ws/install/webots_ros2_driver
+[16.707s] Invoking command in '/home/mannm/ros2_ws/build/webots_ros2_driver': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/mannm/ros2_ws/build/webots_ros2_driver -- -j16 -l16
+[16.830s] [  0%] Built target ament_cmake_python_symlink_controller
+[16.830s] [  0%] Built target ament_cmake_python_symlink_vehicle
+[16.831s] [  0%] Built target ament_cmake_python_symlink_webots_ros2_driver
+[17.278s] running egg_info
+[17.280s] running egg_info
+[17.280s] creating webots_ros2_driver.egg-info
+[17.281s] creating controller.egg-info
+[17.282s] writing webots_ros2_driver.egg-info/PKG-INFO
+[17.282s] writing controller.egg-info/PKG-INFO
+[17.283s] writing dependency_links to webots_ros2_driver.egg-info/dependency_links.txt
+[17.283s] writing dependency_links to controller.egg-info/dependency_links.txt
+[17.284s] writing top-level names to controller.egg-info/top_level.txt
+[17.284s] writing top-level names to webots_ros2_driver.egg-info/top_level.txt
+[17.284s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[17.285s] writing manifest file 'webots_ros2_driver.egg-info/SOURCES.txt'
+[17.289s] running egg_info
+[17.290s] creating vehicle.egg-info
+[17.291s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[17.293s] reading manifest file 'webots_ros2_driver.egg-info/SOURCES.txt'
+[17.293s] writing vehicle.egg-info/PKG-INFO
+[17.294s] writing dependency_links to vehicle.egg-info/dependency_links.txt
+[17.294s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[17.295s] writing top-level names to vehicle.egg-info/top_level.txt
+[17.295s] writing manifest file 'vehicle.egg-info/SOURCES.txt'
+[17.296s] writing manifest file 'webots_ros2_driver.egg-info/SOURCES.txt'
+[17.303s] reading manifest file 'vehicle.egg-info/SOURCES.txt'
+[17.305s] writing manifest file 'vehicle.egg-info/SOURCES.txt'
+[17.383s] [  0%] Built target ament_cmake_python_build_controller_egg
+[17.386s] [  0%] Built target ament_cmake_python_build_webots_ros2_driver_egg
+[17.392s] [  0%] Built target ament_cmake_python_build_vehicle_egg
+[18.136s] [  0%] Built target compile-lib-controller
+[18.277s] [  0%] Built target compile-generic-window
+[19.520s] [  0%] Built target compile-lib-vehicle
+[19.573s] [  7%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_imu.dir/src/plugins/dynamic/Ros2IMU.cpp.o[0m
+[19.574s] [  7%] [32mBuilding CXX object CMakeFiles/driver.dir/src/Driver.cpp.o[0m
+[19.574s] [ 11%] [32mBuilding CXX object CMakeFiles/driver.dir/src/WebotsNode.cpp.o[0m
+[19.575s] [ 22%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_imu.dir/src/plugins/Ros2SensorPlugin.cpp.o[0m
+[19.575s] [ 22%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_rgbd.dir/src/plugins/dynamic/Ros2RGBD.cpp.o[0m
+[19.575s] [ 25%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/Ros2SensorPlugin.cpp.o[0m
+[19.580s] [ 33%] [32mBuilding CXX object CMakeFiles/driver.dir/src/PythonPlugin.cpp.o[0m
+[19.580s] [ 29%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_imu.dir/src/utils/Utils.cpp.o[0m
+[19.581s] [ 29%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_rgbd.dir/src/plugins/Ros2SensorPlugin.cpp.o[0m
+[19.581s] [ 37%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2LED.cpp.o[0m
+[19.581s] [ 40%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Lidar.cpp.o[0m
+[19.581s] [ 44%] [32mBuilding CXX object CMakeFiles/webots_ros2_driver_rgbd.dir/src/utils/Utils.cpp.o[0m
+[19.581s] [ 48%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Pen.cpp.o[0m
+[19.591s] [ 51%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2RangeFinder.cpp.o[0m
+[19.591s] [ 55%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Camera.cpp.o[0m
+[19.591s] [ 59%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2GPS.cpp.o[0m
+[21.177s] [ 62%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2DistanceSensor.cpp.o[0m
+[21.199s] [ 66%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2LightSensor.cpp.o[0m
+[34.089s] [ 70%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Emitter.cpp.o[0m
+[34.146s] [ 74%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Receiver.cpp.o[0m
+[34.243s] [ 77%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2Compass.cpp.o[0m
+[34.511s] [ 81%] [32mBuilding CXX object CMakeFiles/driver.dir/src/utils/Math.cpp.o[0m
+[34.525s] [ 85%] [32mBuilding CXX object CMakeFiles/driver.dir/src/plugins/static/Ros2VacuumGripper.cpp.o[0m
+[36.901s] [ 88%] [32mBuilding CXX object CMakeFiles/driver.dir/src/utils/Utils.cpp.o[0m
+[38.035s] [ 92%] [32m[1mLinking CXX shared library libwebots_ros2_driver_imu.so[0m
+[39.074s] [ 96%] [32m[1mLinking CXX shared library libwebots_ros2_driver_rgbd.so[0m
+[39.373s] [ 96%] Built target webots_ros2_driver_imu
+[39.950s] [ 96%] Built target webots_ros2_driver_rgbd
+[54.002s] [100%] [32m[1mLinking CXX executable driver[0m
+[57.539s] [100%] Built target driver
+[57.564s] Invoked command in '/home/mannm/ros2_ws/build/webots_ros2_driver' returned '0': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/mannm/ros2_ws/build/webots_ros2_driver -- -j16 -l16
+[57.567s] Invoking command in '/home/mannm/ros2_ws/build/webots_ros2_driver': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/mannm/ros2_ws/build/webots_ros2_driver
+[57.581s] -- Install configuration: ""
+[57.582s] -- Execute custom install script
+[57.585s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/pythonpath.sh
+[57.602s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/pythonpath.dsv
+[57.624s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller-2025.0.1-py3.10.egg-info/PKG-INFO
+[57.642s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller-2025.0.1-py3.10.egg-info/SOURCES.txt
+[57.660s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller-2025.0.1-py3.10.egg-info/dependency_links.txt
+[57.678s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller-2025.0.1-py3.10.egg-info/top_level.txt
+[57.698s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/__init__.py
+[57.715s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/accelerometer.py
+[57.732s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/altimeter.py
+[57.750s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/ansi_codes.py
+[57.767s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/brake.py
+[57.784s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/camera.py
+[57.801s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/compass.py
+[57.821s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/connector.py
+[57.838s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/constants.py
+[57.856s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/device.py
+[57.873s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/display.py
+[57.891s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/distance_sensor.py
+[57.912s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/emitter.py
+[57.931s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/field.py
+[57.950s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/gps.py
+[57.970s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/gyro.py
+[57.990s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/inertial_unit.py
+[58.010s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/joystick.py
+[58.030s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/keyboard.py
+[58.050s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/led.py
+[58.068s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/lidar.py
+[58.085s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/lidar_point.py
+[58.103s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/light_sensor.py
+[58.122s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/motion.py
+[58.142s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/motor.py
+[58.166s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/mouse.py
+[58.195s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/node.py
+[58.223s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/pen.py
+[58.256s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/position_sensor.py
+[58.281s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/proto.py
+[58.304s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/radar.py
+[58.329s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/radar_target.py
+[58.355s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/range_finder.py
+[58.377s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/receiver.py
+[58.402s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/robot.py
+[58.423s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/sensor.py
+[58.443s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/skin.py
+[58.462s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/speaker.py
+[58.485s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/supervisor.py
+[58.509s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/touch_sensor.py
+[58.531s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/vacuum_gripper.py
+[58.549s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/wb.py
+[58.569s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle-2025.0.1-py3.10.egg-info/PKG-INFO
+[58.587s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle-2025.0.1-py3.10.egg-info/SOURCES.txt
+[58.605s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle-2025.0.1-py3.10.egg-info/dependency_links.txt
+[58.624s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle-2025.0.1-py3.10.egg-info/top_level.txt
+[58.644s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/__init__.py
+[58.663s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/car.py
+[58.683s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/driver.py
+[58.702s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver-2025.0.1-py3.10.egg-info/PKG-INFO
+[58.721s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver-2025.0.1-py3.10.egg-info/SOURCES.txt
+[58.740s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver-2025.0.1-py3.10.egg-info/dependency_links.txt
+[58.758s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver-2025.0.1-py3.10.egg-info/top_level.txt
+[58.779s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/__init__.py
+[58.797s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/ros2_supervisor.py
+[58.816s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/urdf_spawner.py
+[58.835s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/utils.py
+[58.855s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/wait_for_controller_connection.py
+[58.875s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/webots_controller.py
+[58.894s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/webots_launcher.py
+[58.915s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/PluginInterface.hpp
+[58.935s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/PythonPlugin.hpp
+[58.954s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/WebotsNode.hpp
+[58.974s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/Ros2SensorPlugin.hpp
+[58.992s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/dynamic/Ros2IMU.hpp
+[59.010s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/dynamic/Ros2RGBD.hpp
+[59.030s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Camera.hpp
+[59.051s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Compass.hpp
+[59.070s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2DistanceSensor.hpp
+[59.090s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Emitter.hpp
+[59.108s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2GPS.hpp
+[59.128s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2LED.hpp
+[59.146s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Lidar.hpp
+[59.165s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2LightSensor.hpp
+[59.185s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Pen.hpp
+[59.206s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2RangeFinder.hpp
+[59.227s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2Receiver.hpp
+[59.249s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/plugins/static/Ros2VacuumGripper.hpp
+[59.276s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/utils/Math.hpp
+[59.298s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots_ros2_driver/utils/Utils.hpp
+[59.324s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/webots_ros2_driver/driver
+[59.352s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/libwebots_ros2_driver_imu.so
+[59.371s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/libwebots_ros2_driver_rgbd.so
+[59.405s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/accelerometer.h
+[59.427s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/altimeter.h
+[59.447s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/brake.h
+[59.466s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/camera.h
+[59.485s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/camera_recognition_object.h
+[59.505s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/compass.h
+[59.524s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/connector.h
+[59.544s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/console.h
+[59.563s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/contact_point.h
+[59.584s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/device.h
+[59.602s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/display.h
+[59.622s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/distance_sensor.h
+[59.643s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/emitter.h
+[59.663s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/gps.h
+[59.683s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/gyro.h
+[59.702s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/inertial_unit.h
+[59.723s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/joystick.h
+[59.742s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/keyboard.h
+[59.761s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/led.h
+[59.782s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/lidar.h
+[59.803s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/lidar_point.h
+[59.825s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/light_sensor.h
+[59.851s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/microphone.h
+[59.870s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/motor.h
+[59.889s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/mouse.h
+[59.910s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/mouse_state.h
+[59.930s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/nodes.h
+[59.951s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/pen.h
+[59.978s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/plugins/robot_window/default.h
+[60.002s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/plugins/robot_window/generic_robot_window/generic.h
+[60.023s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/plugins/robot_window/robot_window.h
+[60.046s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/plugins/robot_window/robot_wwi.h
+[60.065s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/position_sensor.h
+[60.084s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/radar.h
+[60.105s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/radar_target.h
+[60.127s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/radio.h
+[60.150s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/range_finder.h
+[60.170s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/receiver.h
+[60.189s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/remote_control.h
+[60.208s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/robot.h
+[60.230s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/skin.h
+[60.250s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/speaker.h
+[60.271s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/supervisor.h
+[60.293s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/touch_sensor.h
+[60.317s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/types.h
+[60.341s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/utils/ansi_codes.h
+[60.366s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/utils/motion.h
+[60.389s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/utils/string.h
+[60.413s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/utils/system.h
+[60.433s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/vacuum_gripper.h
+[60.454s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/vehicle/car.h
+[60.474s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/c/webots/vehicle/driver.h
+[60.506s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Accelerometer.hpp
+[60.526s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Altimeter.hpp
+[60.546s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Brake.hpp
+[60.568s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Camera.hpp
+[60.590s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Compass.hpp
+[60.621s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Connector.hpp
+[60.654s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Device.hpp
+[60.674s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Display.hpp
+[60.697s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/DistanceSensor.hpp
+[60.717s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Emitter.hpp
+[60.739s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Field.hpp
+[60.759s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/GPS.hpp
+[60.781s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Gyro.hpp
+[60.800s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/ImageRef.hpp
+[60.822s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/InertialUnit.hpp
+[60.842s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Joystick.hpp
+[60.868s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Keyboard.hpp
+[60.898s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/LED.hpp
+[60.929s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Lidar.hpp
+[60.957s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/LightSensor.hpp
+[60.984s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Motor.hpp
+[61.003s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Mouse.hpp
+[61.027s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Node.hpp
+[61.055s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Pen.hpp
+[61.074s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/PositionSensor.hpp
+[61.093s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Proto.hpp
+[61.111s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Radar.hpp
+[61.134s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/RangeFinder.hpp
+[61.157s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Receiver.hpp
+[61.179s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Robot.hpp
+[61.199s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Skin.hpp
+[61.219s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Speaker.hpp
+[61.239s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/Supervisor.hpp
+[61.258s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/TouchSensor.hpp
+[61.278s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/VacuumGripper.hpp
+[61.296s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/utils/AnsiCodes.hpp
+[61.313s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/utils/Motion.hpp
+[61.332s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/vehicle/Car.hpp
+[61.351s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/include/webots/cpp/webots/vehicle/Driver.hpp
+[61.377s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libController.so
+[61.397s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libCppCar.so
+[61.416s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libCppController.so
+[61.435s] -- Up-to-date symlink: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libCppController.so
+[61.436s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libCppDriver.so
+[61.454s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libcar.so
+[61.473s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libdriver.so
+[61.491s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/libgeneric_robot_window.so
+[61.512s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/python/vehicle/car.py
+[61.531s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/controller/python/vehicle/driver.py
+[61.551s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver//webots_ros2_imu.xml
+[61.570s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver//webots_ros2_rgbd.xml
+[61.588s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/lib/webots_ros2_driver/ros2_supervisor.py
+[61.617s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/scripts/webots_tcp_client.py
+[61.635s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/scripts/webots-controller
+[61.654s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/library_path.sh
+[61.672s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/library_path.dsv
+[61.693s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/ament_index/resource_index/package_run_dependencies/webots_ros2_driver
+[61.712s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/ament_index/resource_index/parent_prefix_path/webots_ros2_driver
+[61.732s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/ament_prefix_path.sh
+[61.751s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/ament_prefix_path.dsv
+[61.769s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/path.sh
+[61.788s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/environment/path.dsv
+[61.806s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/local_setup.bash
+[61.825s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/local_setup.sh
+[61.844s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/local_setup.zsh
+[61.863s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/local_setup.dsv
+[61.882s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/package.dsv
+[61.901s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/ament_index/resource_index/packages/webots_ros2_driver
+[61.921s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/ament_index/resource_index/webots_ros2_driver__pluginlib__plugin/webots_ros2_driver
+[61.941s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+[61.960s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[61.979s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/cmake/ament_cmake_export_libraries-extras.cmake
+[61.997s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/cmake/webots_ros2_driverConfig.cmake
+[62.018s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/cmake/webots_ros2_driverConfig-version.cmake
+[62.037s] -- Symlinking: /home/mannm/ros2_ws/install/webots_ros2_driver/share/webots_ros2_driver/package.xml
+[62.191s] Listing '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/__init__.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/accelerometer.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/altimeter.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/ansi_codes.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/brake.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/camera.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/compass.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/connector.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/constants.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/device.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/display.py'...
+[62.191s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/distance_sensor.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/emitter.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/field.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/gps.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/gyro.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/inertial_unit.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/joystick.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/keyboard.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/led.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/lidar.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/lidar_point.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/light_sensor.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/motion.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/motor.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/mouse.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/node.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/pen.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/position_sensor.py'...
+[62.192s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/proto.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/radar.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/radar_target.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/range_finder.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/receiver.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/robot.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/sensor.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/skin.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/speaker.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/supervisor.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/touch_sensor.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/vacuum_gripper.py'...
+[62.193s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/controller/wb.py'...
+[62.271s] Listing '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle'...
+[62.271s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/__init__.py'...
+[62.272s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/car.py'...
+[62.272s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/vehicle/driver.py'...
+[62.361s] Listing '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/__init__.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/ros2_supervisor.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/urdf_spawner.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/utils.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/wait_for_controller_connection.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/webots_controller.py'...
+[62.361s] Compiling '/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages/webots_ros2_driver/webots_launcher.py'...
+[62.374s] Invoked command in '/home/mannm/ros2_ws/build/webots_ros2_driver' returned '0': AMENT_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble CMAKE_PREFIX_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/mannm/ros2_ws/build/webots_ros2_driver

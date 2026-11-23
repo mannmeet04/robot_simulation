@@ -1,0 +1,264 @@
+[0.000000] (-) TimerEvent: {}
+[0.017540] (-) JobUnselected: {'identifier': 'turtle_circle_pkg'}
+[0.018714] (-) JobUnselected: {'identifier': 'webots_ros2'}
+[0.019000] (-) JobUnselected: {'identifier': 'webots_ros2_control'}
+[0.019113] (-) JobUnselected: {'identifier': 'webots_ros2_crazyflie'}
+[0.019470] (-) JobUnselected: {'identifier': 'webots_ros2_driver'}
+[0.019989] (-) JobUnselected: {'identifier': 'webots_ros2_epuck'}
+[0.020384] (-) JobUnselected: {'identifier': 'webots_ros2_husarion'}
+[0.021363] (-) JobUnselected: {'identifier': 'webots_ros2_importer'}
+[0.021756] (-) JobUnselected: {'identifier': 'webots_ros2_mavic'}
+[0.021980] (-) JobUnselected: {'identifier': 'webots_ros2_msgs'}
+[0.022464] (-) JobUnselected: {'identifier': 'webots_ros2_tesla'}
+[0.022658] (-) JobUnselected: {'identifier': 'webots_ros2_tests'}
+[0.022759] (-) JobUnselected: {'identifier': 'webots_ros2_tiago'}
+[0.022841] (-) JobUnselected: {'identifier': 'webots_ros2_turtlebot'}
+[0.022909] (-) JobUnselected: {'identifier': 'webots_ros2_universal_robot'}
+[0.023017] (-) JobUnselected: {'identifier': 'webots_spot'}
+[0.023134] (-) JobUnselected: {'identifier': 'webots_spot_msgs'}
+[0.023378] (-) JobUnselected: {'identifier': 'webots_spot_teleop'}
+[0.023618] (spot_vision) JobQueued: {'identifier': 'spot_vision', 'dependencies': OrderedDict()}
+[0.023885] (spot_vision) JobStarted: {'identifier': 'spot_vision'}
+[0.096570] (-) TimerEvent: {}
+[0.212896] (-) TimerEvent: {}
+[0.314244] (-) TimerEvent: {}
+[0.415805] (-) TimerEvent: {}
+[0.517053] (-) TimerEvent: {}
+[0.618587] (-) TimerEvent: {}
+[0.719870] (-) TimerEvent: {}
+[0.821152] (-) TimerEvent: {}
+[0.922546] (-) TimerEvent: {}
+[1.023760] (-) TimerEvent: {}
+[1.126199] (-) TimerEvent: {}
+[1.227803] (-) TimerEvent: {}
+[1.329151] (-) TimerEvent: {}
+[1.430612] (-) TimerEvent: {}
+[1.532062] (-) TimerEvent: {}
+[1.633554] (-) TimerEvent: {}
+[1.735043] (-) TimerEvent: {}
+[1.837318] (-) TimerEvent: {}
+[1.939210] (-) TimerEvent: {}
+[2.040730] (-) TimerEvent: {}
+[2.147360] (-) TimerEvent: {}
+[2.248835] (-) TimerEvent: {}
+[2.350749] (-) TimerEvent: {}
+[2.452295] (-) TimerEvent: {}
+[2.553604] (-) TimerEvent: {}
+[2.655107] (-) TimerEvent: {}
+[2.757013] (-) TimerEvent: {}
+[2.858285] (-) TimerEvent: {}
+[2.960678] (-) TimerEvent: {}
+[3.062004] (-) TimerEvent: {}
+[3.164645] (-) TimerEvent: {}
+[3.267314] (-) TimerEvent: {}
+[3.370729] (-) TimerEvent: {}
+[3.472149] (-) TimerEvent: {}
+[3.573591] (-) TimerEvent: {}
+[3.676169] (-) TimerEvent: {}
+[3.777924] (-) TimerEvent: {}
+[3.882212] (-) TimerEvent: {}
+[3.986665] (-) TimerEvent: {}
+[4.088184] (-) TimerEvent: {}
+[4.189585] (-) TimerEvent: {}
+[4.290992] (-) TimerEvent: {}
+[4.392483] (-) TimerEvent: {}
+[4.493674] (-) TimerEvent: {}
+[4.594947] (-) TimerEvent: {}
+[4.697558] (-) TimerEvent: {}
+[4.799435] (-) TimerEvent: {}
+[4.901190] (-) TimerEvent: {}
+[5.005055] (-) TimerEvent: {}
+[5.106853] (-) TimerEvent: {}
+[5.208675] (-) TimerEvent: {}
+[5.310106] (-) TimerEvent: {}
+[5.411536] (-) TimerEvent: {}
+[5.512761] (-) TimerEvent: {}
+[5.616829] (-) TimerEvent: {}
+[5.718559] (-) TimerEvent: {}
+[5.819729] (-) TimerEvent: {}
+[5.921202] (-) TimerEvent: {}
+[6.022710] (-) TimerEvent: {}
+[6.125744] (-) TimerEvent: {}
+[6.227400] (-) TimerEvent: {}
+[6.328572] (-) TimerEvent: {}
+[6.429941] (-) TimerEvent: {}
+[6.531696] (-) TimerEvent: {}
+[6.632935] (-) TimerEvent: {}
+[6.734208] (-) TimerEvent: {}
+[6.835665] (-) TimerEvent: {}
+[6.936952] (-) TimerEvent: {}
+[7.042171] (-) TimerEvent: {}
+[7.143399] (-) TimerEvent: {}
+[7.244961] (-) TimerEvent: {}
+[7.346643] (-) TimerEvent: {}
+[7.448235] (-) TimerEvent: {}
+[7.549471] (-) TimerEvent: {}
+[7.650625] (-) TimerEvent: {}
+[7.751737] (-) TimerEvent: {}
+[7.853120] (-) TimerEvent: {}
+[7.958049] (-) TimerEvent: {}
+[8.060309] (-) TimerEvent: {}
+[8.162013] (-) TimerEvent: {}
+[8.263520] (-) TimerEvent: {}
+[8.364876] (-) TimerEvent: {}
+[8.466666] (-) TimerEvent: {}
+[8.567936] (-) TimerEvent: {}
+[8.669282] (-) TimerEvent: {}
+[8.770977] (-) TimerEvent: {}
+[8.872123] (-) TimerEvent: {}
+[8.973801] (-) TimerEvent: {}
+[9.074995] (-) TimerEvent: {}
+[9.176551] (-) TimerEvent: {}
+[9.277882] (-) TimerEvent: {}
+[9.379522] (-) TimerEvent: {}
+[9.480904] (-) TimerEvent: {}
+[9.582506] (-) TimerEvent: {}
+[9.685091] (-) TimerEvent: {}
+[9.786695] (-) TimerEvent: {}
+[9.888230] (-) TimerEvent: {}
+[9.991359] (-) TimerEvent: {}
+[10.092604] (-) TimerEvent: {}
+[10.193989] (-) TimerEvent: {}
+[10.295845] (-) TimerEvent: {}
+[10.397205] (-) TimerEvent: {}
+[10.498617] (-) TimerEvent: {}
+[10.600028] (-) TimerEvent: {}
+[10.701718] (-) TimerEvent: {}
+[10.803080] (-) TimerEvent: {}
+[10.904646] (-) TimerEvent: {}
+[11.006558] (-) TimerEvent: {}
+[11.107869] (-) TimerEvent: {}
+[11.209255] (-) TimerEvent: {}
+[11.311272] (-) TimerEvent: {}
+[11.412953] (-) TimerEvent: {}
+[11.514632] (-) TimerEvent: {}
+[11.616023] (-) TimerEvent: {}
+[11.717936] (-) TimerEvent: {}
+[11.820401] (-) TimerEvent: {}
+[11.921616] (-) TimerEvent: {}
+[12.023419] (-) TimerEvent: {}
+[12.126336] (-) TimerEvent: {}
+[12.227656] (-) TimerEvent: {}
+[12.329325] (-) TimerEvent: {}
+[12.430665] (-) TimerEvent: {}
+[12.531826] (-) TimerEvent: {}
+[12.633048] (-) TimerEvent: {}
+[12.734322] (-) TimerEvent: {}
+[12.836502] (-) TimerEvent: {}
+[12.938019] (-) TimerEvent: {}
+[13.039132] (-) TimerEvent: {}
+[13.141214] (-) TimerEvent: {}
+[13.245715] (-) TimerEvent: {}
+[13.348383] (-) TimerEvent: {}
+[13.449732] (-) TimerEvent: {}
+[13.551205] (-) TimerEvent: {}
+[13.652647] (-) TimerEvent: {}
+[13.756841] (-) TimerEvent: {}
+[13.858098] (-) TimerEvent: {}
+[13.959911] (-) TimerEvent: {}
+[14.061059] (-) TimerEvent: {}
+[14.162460] (-) TimerEvent: {}
+[14.263688] (-) TimerEvent: {}
+[14.364989] (-) TimerEvent: {}
+[14.466269] (-) TimerEvent: {}
+[14.567707] (-) TimerEvent: {}
+[14.625783] (spot_vision) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/mannm/ros2_ws/build/spot_vision/build', '--no-deps', 'symlink_data'], 'cwd': '/home/mannm/ros2_ws/build/spot_vision', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'mannm'), ('GIT_ASKPASS', '/home/mannm/.vscode-server/bin/19e0f9e681ecb8e5c09d8784acaa601316ca4571/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/mannm/ros2_ws/install/webots_spot_msgs/lib:/home/mannm/ros2_ws/install/webots_ros2_control/lib:/home/mannm/ros2_ws/install/webots_ros2_driver/lib:/home/mannm/ros2_ws/install/webots_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/mannm'), ('OLDPWD', '/home/mannm/ros2_ws'), ('TERM_PROGRAM_VERSION', '1.100.0'), ('VSCODE_IPC_HOOK_CLI', '/run/user/1000/vscode-ipc-16e5f7a7-a646-44e0-b155-724a2f7dd264.sock'), ('ROS_PYTHON_VERSION', '3'), ('VSCODE_GIT_ASKPASS_MAIN', '/home/mannm/.vscode-server/bin/19e0f9e681ecb8e5c09d8784acaa601316ca4571/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/home/mannm/.vscode-server/bin/19e0f9e681ecb8e5c09d8784acaa601316ca4571/node'), ('PYDEVD_DISABLE_FILE_VALIDATION', '1'), ('BUNDLED_DEBUGPY_PATH', '/home/mannm/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/libs/debugpy'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/mannm/ros2_ws/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'mannm'), ('NAME', 'MeetLaptop'), ('WSL_INTEROP', '/run/WSL/9653_interop'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/mannm/.vscode-server/bin/19e0f9e681ecb8e5c09d8784acaa601316ca4571/bin/remote-cli:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/apache-maven-3.9.15/bin:/mnt/c/Program Files/nodejs/:/mnt/c/Users/mannm/Desktop/Apps/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/mannm/AppData/Local/Programs/Python/Python310/Scripts/:/mnt/c/Users/mannm/AppData/Local/Programs/Python/Python310/:/mnt/c/Users/mannm/AppData/Local/Programs/cursor/resources/app/codeBin:/mnt/c/Users/mannm/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/mannm/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/mannm/AppData/Roaming/npm:/mnt/c/Users/mannm/AppData/Local/Programs/cursor/resources/app/bin:/mnt/c/Users/mannm/AppData/Local/Python/bin:/mnt/c/Users/mannm/.bun/bin:/mnt/c/src/flutter/bin:/mnt/c/Users/mannm/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim:/snap/bin:/home/mannm/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts:/home/mannm/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', ':0'), ('VSCODE_DEBUGPY_ADAPTER_ENDPOINTS', '/home/mannm/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-bebc3c087207fd14.txt'), ('LANG', 'en_US.UTF-8'), ('PYTHONSTARTUP', '/home/mannm/.vscode-server/data/User/workspaceStorage/f437716ccad91ac832c4ec013edcf603/ms-python.python/pythonrc.py'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-7a9d9a9dc9.sock'), ('TERM_PROGRAM', 'vscode'), ('AMENT_PREFIX_PATH', '/home/mannm/ros2_ws/install/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_spot:/home/mannm/ros2_ws/install/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs:/home/mannm/ros2_ws/install/webots_ros2_importer:/home/mannm/ros2_ws/install/turtle_circle_pkg:/home/mannm/ros2_ws/install/spot_vision:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('WEBOTS_HOME', '/mnt/c/Program Files/Webots'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('PWD', '/home/mannm/ros2_ws/build/spot_vision'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/mannm/ros2_ws/build/spot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_spot_teleop:/home/mannm/ros2_ws/install/webots_spot_teleop/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_spot_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/build/webots_spot:/home/mannm/ros2_ws/install/webots_spot/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2:/home/mannm/ros2_ws/install/webots_ros2/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_universal_robot:/home/mannm/ros2_ws/install/webots_ros2_universal_robot/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_turtlebot:/home/mannm/ros2_ws/install/webots_ros2_turtlebot/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_tiago:/home/mannm/ros2_ws/install/webots_ros2_tiago/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_tests:/home/mannm/ros2_ws/install/webots_ros2_tests/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_tesla:/home/mannm/ros2_ws/install/webots_ros2_tesla/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_mavic:/home/mannm/ros2_ws/install/webots_ros2_mavic/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_husarion:/home/mannm/ros2_ws/install/webots_ros2_husarion/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_epuck:/home/mannm/ros2_ws/install/webots_ros2_epuck/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/webots_ros2_crazyflie:/home/mannm/ros2_ws/install/webots_ros2_crazyflie/lib/python3.10/site-packages:/home/mannm/ros2_ws/install/webots_ros2_driver/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/install/webots_ros2_msgs/local/lib/python3.10/dist-packages:/home/mannm/ros2_ws/build/webots_ros2_importer:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/turtle_circle_pkg:/home/mannm/ros2_ws/install/turtle_circle_pkg/lib/python3.10/site-packages:/home/mannm/ros2_ws/build/spot_vision:/home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/home/mannm/ros2_ws/install/webots_spot_msgs:/home/mannm/ros2_ws/install/webots_ros2_control:/home/mannm/ros2_ws/install/webots_ros2_driver:/home/mannm/ros2_ws/install/webots_ros2_msgs'), ('WSLENV', 'VSCODE_WSL_EXT_LOCATION/up')]), 'shell': False}
+[14.669793] (-) TimerEvent: {}
+[14.775543] (-) TimerEvent: {}
+[14.876823] (-) TimerEvent: {}
+[14.977913] (-) TimerEvent: {}
+[15.079070] (-) TimerEvent: {}
+[15.180367] (-) TimerEvent: {}
+[15.281465] (-) TimerEvent: {}
+[15.383768] (-) TimerEvent: {}
+[15.485477] (-) TimerEvent: {}
+[15.587274] (-) TimerEvent: {}
+[15.688761] (-) TimerEvent: {}
+[15.789989] (-) TimerEvent: {}
+[15.891225] (-) TimerEvent: {}
+[15.992359] (-) TimerEvent: {}
+[16.093610] (-) TimerEvent: {}
+[16.195417] (-) TimerEvent: {}
+[16.296548] (-) TimerEvent: {}
+[16.399400] (-) TimerEvent: {}
+[16.501456] (-) TimerEvent: {}
+[16.602933] (-) TimerEvent: {}
+[16.704127] (-) TimerEvent: {}
+[16.805573] (-) TimerEvent: {}
+[16.907065] (-) TimerEvent: {}
+[17.008709] (-) TimerEvent: {}
+[17.110058] (-) TimerEvent: {}
+[17.211372] (-) TimerEvent: {}
+[17.312724] (-) TimerEvent: {}
+[17.414198] (-) TimerEvent: {}
+[17.515631] (-) TimerEvent: {}
+[17.617011] (-) TimerEvent: {}
+[17.719322] (-) TimerEvent: {}
+[17.821551] (-) TimerEvent: {}
+[17.922794] (-) TimerEvent: {}
+[18.023994] (-) TimerEvent: {}
+[18.125145] (-) TimerEvent: {}
+[18.226292] (-) TimerEvent: {}
+[18.327611] (-) TimerEvent: {}
+[18.428887] (-) TimerEvent: {}
+[18.500054] (spot_vision) StdoutLine: {'line': b'running develop\n'}
+[18.529256] (-) TimerEvent: {}
+[18.631382] (-) TimerEvent: {}
+[18.732637] (-) TimerEvent: {}
+[18.833890] (-) TimerEvent: {}
+[18.935207] (-) TimerEvent: {}
+[19.036600] (-) TimerEvent: {}
+[19.138033] (-) TimerEvent: {}
+[19.240355] (-) TimerEvent: {}
+[19.342155] (-) TimerEvent: {}
+[19.443181] (-) TimerEvent: {}
+[19.544792] (-) TimerEvent: {}
+[19.646183] (-) TimerEvent: {}
+[19.751627] (-) TimerEvent: {}
+[19.852804] (-) TimerEvent: {}
+[19.953941] (-) TimerEvent: {}
+[20.055524] (-) TimerEvent: {}
+[20.156774] (-) TimerEvent: {}
+[20.258010] (-) TimerEvent: {}
+[20.359413] (-) TimerEvent: {}
+[20.460881] (-) TimerEvent: {}
+[20.562536] (-) TimerEvent: {}
+[20.663835] (-) TimerEvent: {}
+[20.765306] (-) TimerEvent: {}
+[20.867630] (-) TimerEvent: {}
+[20.968863] (-) TimerEvent: {}
+[21.070303] (-) TimerEvent: {}
+[21.171689] (-) TimerEvent: {}
+[21.258103] (spot_vision) StdoutLine: {'line': b'running egg_info\n'}
+[21.272186] (-) TimerEvent: {}
+[21.373520] (-) TimerEvent: {}
+[21.474935] (-) TimerEvent: {}
+[21.496239] (spot_vision) StdoutLine: {'line': b'writing spot_vision.egg-info/PKG-INFO\n'}
+[21.502431] (spot_vision) StdoutLine: {'line': b'writing dependency_links to spot_vision.egg-info/dependency_links.txt\n'}
+[21.504787] (spot_vision) StdoutLine: {'line': b'writing entry points to spot_vision.egg-info/entry_points.txt\n'}
+[21.507981] (spot_vision) StdoutLine: {'line': b'writing requirements to spot_vision.egg-info/requires.txt\n'}
+[21.509769] (spot_vision) StdoutLine: {'line': b'writing top-level names to spot_vision.egg-info/top_level.txt\n'}
+[21.575451] (-) TimerEvent: {}
+[21.677017] (-) TimerEvent: {}
+[21.778276] (-) TimerEvent: {}
+[21.879717] (-) TimerEvent: {}
+[21.891874] (spot_vision) StdoutLine: {'line': b"reading manifest file 'spot_vision.egg-info/SOURCES.txt'\n"}
+[21.900812] (spot_vision) StdoutLine: {'line': b"writing manifest file 'spot_vision.egg-info/SOURCES.txt'\n"}
+[21.980126] (-) TimerEvent: {}
+[22.081376] (-) TimerEvent: {}
+[22.093172] (spot_vision) StdoutLine: {'line': b'running build_ext\n'}
+[22.097628] (spot_vision) StdoutLine: {'line': b'Creating /home/mannm/ros2_ws/install/spot_vision/lib/python3.10/site-packages/spot-vision.egg-link (link to .)\n'}
+[22.107286] (spot_vision) StdoutLine: {'line': b'Installing aruco_detector script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision\n'}
+[22.110508] (spot_vision) StdoutLine: {'line': b'Installing line_follower script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision\n'}
+[22.113470] (spot_vision) StdoutLine: {'line': b'Installing yolo_detector script to /home/mannm/ros2_ws/install/spot_vision/lib/spot_vision\n'}
+[22.118861] (spot_vision) StdoutLine: {'line': b'\n'}
+[22.119552] (spot_vision) StdoutLine: {'line': b'Installed /home/mannm/ros2_ws/build/spot_vision\n'}
+[22.120918] (spot_vision) StdoutLine: {'line': b'running symlink_data\n'}
+[22.181977] (-) TimerEvent: {}
+[22.283319] (-) TimerEvent: {}
+[22.384553] (-) TimerEvent: {}
+[22.407824] (spot_vision) CommandEnded: {'returncode': 0}
+[22.486815] (-) TimerEvent: {}
+[22.589875] (spot_vision) JobEnded: {'identifier': 'spot_vision', 'rc': 0}
+[22.594326] (-) TimerEvent: {}
+[22.595182] (-) EventReactorShutdown: {}

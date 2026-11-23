@@ -1,0 +1,25 @@
+[1.875s] Invoking command in '/home/mannm/ros2_ws/build/webots_ros2_importer': PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/webots_ros2_importer/build --no-deps symlink_data
+[2.299s] running develop
+[2.587s] running egg_info
+[2.588s] creating webots_ros2_importer.egg-info
+[2.589s] writing webots_ros2_importer.egg-info/PKG-INFO
+[2.589s] writing dependency_links to webots_ros2_importer.egg-info/dependency_links.txt
+[2.590s] writing entry points to webots_ros2_importer.egg-info/entry_points.txt
+[2.591s] writing requirements to webots_ros2_importer.egg-info/requires.txt
+[2.591s] writing top-level names to webots_ros2_importer.egg-info/top_level.txt
+[2.591s] writing manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[2.597s] reading manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[2.599s] writing manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[2.601s] running build_ext
+[2.601s] Creating /home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages/webots-ros2-importer.egg-link (link to .)
+[2.603s] Installing urdf2proto script to /home/mannm/ros2_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+[2.604s] Installing xacro2proto script to /home/mannm/ros2_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+[2.605s] 
+[2.605s] Installed /home/mannm/ros2_ws/build/webots_ros2_importer
+[2.605s] running symlink_data
+[2.605s] creating /home/mannm/ros2_ws/install/webots_ros2_importer/share/ament_index
+[2.606s] creating /home/mannm/ros2_ws/install/webots_ros2_importer/share/ament_index/resource_index
+[2.607s] creating /home/mannm/ros2_ws/install/webots_ros2_importer/share/ament_index/resource_index/packages
+[2.608s] symbolically linking /home/mannm/ros2_ws/build/webots_ros2_importer/resource/webots_ros2_importer -> /home/mannm/ros2_ws/install/webots_ros2_importer/share/ament_index/resource_index/packages
+[2.608s] symbolically linking /home/mannm/ros2_ws/build/webots_ros2_importer/package.xml -> /home/mannm/ros2_ws/install/webots_ros2_importer/share/webots_ros2_importer
+[2.677s] Invoked command in '/home/mannm/ros2_ws/build/webots_ros2_importer' returned '0': PYTHONPATH=/home/mannm/ros2_ws/build/webots_ros2_importer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mannm/ros2_ws/install/webots_ros2_importer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mannm/ros2_ws/build/webots_ros2_importer/build --no-deps symlink_data

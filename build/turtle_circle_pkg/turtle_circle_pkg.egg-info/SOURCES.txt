@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/turtle_circle_pkg
+turtle_circle_pkg/__init__.py
+turtle_circle_pkg/turtle_circle.py
+turtle_circle_pkg.egg-info/PKG-INFO
+turtle_circle_pkg.egg-info/SOURCES.txt
+turtle_circle_pkg.egg-info/dependency_links.txt
+turtle_circle_pkg.egg-info/entry_points.txt
+turtle_circle_pkg.egg-info/requires.txt
+turtle_circle_pkg.egg-info/top_level.txt
+turtle_circle_pkg.egg-info/zip-safe
